@@ -5,5 +5,8 @@ from modelo.naranja import Naranja
 
 canasta = Canasta()
 barril = Barril()
+
+
+
 naranja = Naranja()
 naranja.recoger(canasta)
